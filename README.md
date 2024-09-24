@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TailwindCSS, Framer Motion, Three.js**
 
-- 👨‍💻 All of my projects are available at [vurs.github.io](vurs.github.io)
+- 👨‍💻 All of my projects are available at [vurs.github.io](https://vurs.github.io)
 
 - 💬 Ask me about **Unity Engine, C#, AWS**
 
