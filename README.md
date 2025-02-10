@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent Ursino</h1>
+<h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">An indie game developer, software engineer, and security researcher</h3>
 
 - 🔭 I’m currently working on [CodeStory](https://github.com/Vurs/codestory-capstone-2023)
